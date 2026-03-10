@@ -7,7 +7,7 @@ Happy coding!
 <table>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilmaciel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilmaciel&layout=compact&langs_count=6&theme=tokyonight"/>
-  <img src="https://p1.hiclipart.com/preview/885/530/469/js-icon-logo-icon-react-icon-react-js-icon-turquoise-teal-aqua-symbol-circle-png-clipart.jpg" width="120" alt="React">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="120" alt="React">
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
   <img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript">
