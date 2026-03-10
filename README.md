@@ -5,8 +5,6 @@ I'm excited to have you here. This is where I showcase my projects, collaborate 
 Happy coding!
 
 <table>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilmaciel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilmaciel&layout=compact&langs_count=6&theme=tokyonight"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="120" alt="React">
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
